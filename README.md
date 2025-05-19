@@ -50,4 +50,4 @@
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/<TON-NOM-UTILISATEUR>/Kickoff-WPF-API.git
+git clone https://github.com/Timal-lkj/Kickoff.git
